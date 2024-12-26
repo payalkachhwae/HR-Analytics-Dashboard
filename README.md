@@ -12,6 +12,6 @@ Leveraging data to uncover actionable trends in HR management.
 - Attendance & Work Hours Analysis: Visualized attendance patterns to ensure better workforce planning.
 
 # Repository Structure
-Data: <a href "https://github.com/payalkachhwae/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv"</a>
-Dashboard: <a href https://github.com/payalkachhwae/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20PowerBI%20Dashboard.pbix</a>
-Images:![Dashboard Image](https://github.com/user-attachments/assets/8402ad79-2876-4bd8-8294-d00bd141ccf9)
+- Data: <a href "https://github.com/payalkachhwae/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv"</a>
+- Dashboard: <a href https://github.com/payalkachhwae/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20PowerBI%20Dashboard.pbix</a>
+- Images:![Dashboard Image](https://github.com/user-attachments/assets/8402ad79-2876-4bd8-8294-d00bd141ccf9)
