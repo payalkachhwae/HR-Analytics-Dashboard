@@ -10,3 +10,6 @@ Leveraging data to uncover actionable trends in HR management.
 - Diversity Metrics: Showcased gender and age distributions across departments.
 - Recruitment Insights: Monitored hiring trends and time-to-fill metrics.
 - Attendance & Work Hours Analysis: Visualized attendance patterns to ensure better workforce planning.
+
+# Repository Structure
+Data: <a href "https://github.com/payalkachhwae/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv"</a>
